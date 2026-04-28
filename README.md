@@ -8,5 +8,5 @@ This project was created in 2024 as my final project in a game design course. Th
 * GIMP - Texture creation
 
 ## License ##
-
+GNU General Public License
 <br>See the LICENSE file for more details.
